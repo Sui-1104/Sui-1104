@@ -1,4 +1,4 @@
-z# 💫 About Me:
+# 💫 About Me:
 I'm a final year AI and Machine learning student, currently aided in internship of IISMTC.<br>I'm looking for collaboration of AI,LLM based project.<br>I'm looking for help with Back-end, API connect and CI/CD projects. <br>I'm currently learning DL, LLM and AI. <br>Ask me about Machine learning, Deep learning or any beginner questions to CS.<br>Fun fact: Don't know
 
 
