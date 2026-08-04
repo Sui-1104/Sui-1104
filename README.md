@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final year AI and Machine learning student, currently aided in internship of IISMTC.<br>I'm looking for collaboration of AI,LLM based project. <br>I'm currently learning DL, LLM and AI. <br>Ask me about Machine learning, Deep learning or any beginner questions to CS.
+Done with graduation, Done with internship of IISMTC too.<br> Nothing else to say
 
 
 ## 🌐 Socials:
